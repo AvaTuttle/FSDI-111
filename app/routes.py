@@ -7,7 +7,7 @@ def home():
     me = {
         "first_name": "Ava",
         "last_name": "Tuttle",
-        "hobbies": "video games, DnD",
+        "hobbies": "video games, DnD, guitar",
         "is_online": True
     }
     return me
